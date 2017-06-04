@@ -5,7 +5,7 @@ import android.view.ViewGroup
 import com.nghiepnguyen.kedditbynghiep.R
 import com.nghiepnguyen.kedditbynghiep.commons.adapter.ViewType
 import com.nghiepnguyen.kedditbynghiep.commons.adapter.ViewTypeDelegateAdapter
-import com.nghiepnguyen.kedditbynghiep.commons.inflate
+import com.nghiepnguyen.kedditbynghiep.commons.Extensions.inflate
 
 /**
  * Created by W10-PRO on 29-May-17.
